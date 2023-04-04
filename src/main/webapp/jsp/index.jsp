@@ -61,17 +61,13 @@ span{
 color:red;
 }
 </style>
-
-
 </head>
 <body>
-
-<ul>  
-  
+<ul>
   <li><b><a href="/jsp/contractorlogin.jsp">CONTRACTOR</a></b></li>
-  <li><b><a href="/jsp/govermentlogin.jsp">GOVERMENT</a></b></li>
+  <li><b><a href="/jsp/govermentlogin.jsp">GOVERNMENT</a></b></li>
   <li><b><a href="/jsp/departlogin.jsp">DEPARTMENT</a></b></li>
-  <li><b><a href="/jsp/publicmain.jsp">PUBLIC COMPLIENT</a></b></li>
+  <li><b><a href="/jsp/publicmain.jsp">PUBLIC COMPLAINT</a></b></li>
   <li><b><a href="/jsp/index.jsp">HOME</a></b></li>
 </ul>
 

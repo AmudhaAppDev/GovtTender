@@ -1,0 +1,27 @@
+image = cv2.imread('/kaggle/input/opencv-samples-images/data/home.jpg')
+image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+
+plt.figure(figsize=(20, 20))
+
+plt.subplot(2, 2, 1)
+plt.title("Original")
+plt.imshow(image)
+
+# Creating our 3 x 3 kernel
+kernel_3x3 = np.ones((3, 3), np.float32) / 9
+
+# We use the cv2.fitler2D to conovlve the kernal with an image 
+blurred = cv2.filter2D(image, -1, kernel_3x3)
+
+plt.subplot(2, 2, 2)
+plt.title("3x3 Kernel Blurring")
+plt.imshow(blurred)
+
+# Creating our 7 x 7 kernel
+kernel_7x7 = np.ones((7, 7), np.float32) / 49
+
+blurred2 = cv2.filter2D(image, -1, kernel_7x7)
+
+plt.subplot(2, 2, 3)
+plt.title("7x7 Kernel Blurring")
+plt.imshow(blurred2)

@@ -1,0 +1,107 @@
+This article has been accepted for publication in a future issue of this journal, but has not been fully edited. Content may change prior to final publication. Citation information: DOI 10.1109/TCBB.2021.3051177, IEEE/ACM
+Transactions on Computational Biology and Bioinformatics
+JOURNAL OF IEEE TCBB, VOL. *, NO. *, MONTH YEAR 12
+diagnosis using structural MRI,” IEEE Trans. Pattern Anal. Mach. [23] D. Dai, H. He, and J. T. Vogelstein, et al., “Accurate prediction of
+Intell., vol. 42, no. 4, pp. 880-893, 2020. AD patients using cortical thickness networks,” Mach. Vis. Appl.,
+vol. 24, no. 7, pp. 1445-1457, 2013.
+[2] G. Fung and J. Stoeckel, “SVM feature selection for classi?cation of
+SPECT images of Alzheimer’s disease using spatial information,” [24] G.Chen,B.D.Ward,andC.Xie,etal.,“Classi?cationofAlzheimer
+Knowl. Infor. Sys., vol. 11, no. 2, pp. 243-258, 2007. disease, mild cognitive impairment, and normal cognitive status
+with large-scale network analysis based on resting-state functional
+[3] I. A. Illan, ´ J. M. Gorriz, ´ and J. Ram´?rez, et al., “Projecting indepen-
+MR imaging,” Radiology, vol. 259, no. 1, pp. 213-221, 2011.
+dent components of SPECT images for computer aided diagnosis
+of Alzheimer’s disease,” Pattern Recogn. Lett., vol. 31, no. 11, pp. [25] C. Y. Wee, P. T. Yap, and K. Denny, et al., “Resting-state multi-
+1342-1347, 2010. spectrumfunctionalconnectivitynetworksforidenti?cationofMCI
+patients,” PloS One, vol. 7, no. 5, pp. e37828-e37838, 2012.
+[4] C.Misra,Y.Fan,andC.Davatzikos,“Baselineandlongitudinalpat-
+terns of brain atrophy in MCI patients, and their use in prediction [26] L. Cao, L. Li, and J. Zheng, et al., “Multi-task neural networks
+of short-term conversion to AD: results from ADNI,” NeuroImage, for joint hippocampus segmentation and clinical score regression,”
+vol. 44, no. 4, pp. 1415-1422, 2009. Multimed. Tools Appl., vol. 77, pp. 29669-29686, 2018.
+[5] J. Feng, S.-W. Zhang, and L. Chen, “Identi?cation of Alzheimers [27] M. Chupin, E. Gerar ´ din, and R. Cuingnet, et al., “Fully automatic
+disease based on wavelet transformation energy feature of the hippocampus segmentation and classi?cation in Alzheimer’s dis-
+structuralMRIimageandNNclassi?er,”Artif.Intell.Med.,vol.108, ease and mild cognitive impairment applied on data from ADNI,”
+pp.101940, 2020. Hippocampus, vol. 19, no. 6, pp. 579-587, 2009.
+[6] K.SimonyanandA.Zisserman,“Verydeepconvolutionalnetworks
+[28] K. R. Gray, R. Wolz, and R. A. Heckemann, et al., “Multi-
+for large scale image recognition,” arXiv prepint, arXiv: 409.1556,
+region analysis of longitudinal FDG-PET for the classi?cation of
+2014.
+Alzheimer’s disease,” NeuroImage, vol. 60, no. 1, pp. 221-229, 2012.
+[7] P.Cao,X.Liu,andJ.Yang,etal.,“Nonlinearity-awarebaseddimen- [29] N. Schuff, N. Woerner, and L. Boreta, et al., “MRI of hippocampal
+sionality reduction and over-sampling for AD/MCI classi?cation volume loss in early Alzheimer’s disease in relation to ApoE
+from MRI measures,” Comput. Biol. Med., vol. 91, pp. 21-37, 2017. genotype and biomarkers,” Brain, vol. 132, no. 4, pp. 1067-1077,
+2009.
+[8] J. Dukart, F. Kherif, and K. Mueller, et al., “Generative FDG-PET
+and MRI model of aging and disease progression in Alzheimer’s [30] B. Magnin, L. Mesrob, and S. Kinkingnehun, ´ “Support vector
+disease,” PLoS Comput. Biol., vol. 9, no. 4, pp. e1002987-e1002997, machine-based classi?cation of Alzheimers disease from whole-
+2013. brain anatomical MRI,” Neuroradiology, vol. 51, no. 2, pp. 73-83,
+2009.
+[9] S. Liu, S. Liu, and W. Cai, et al., “Early diagnosis of Alzheimer’s
+diseasewithdeeplearning,” 2014 IEEE 11th ISBI,IEEE,Beijing,pp. [31] J. Liu, M. Li, and W. Lan, et al., “Classi?cation of Alzheimer’s
+1015-1018, 2014. disease using whole brain hierarchical network,” IEEE/ACM Trans.
+Comput. Biol. Bioinf., vol. 55, no. 2, pp. 624-632, Mar.-Apr. 2018.
+[10] M. C. Carrillo, L. J. Bain, and G. B. Frisoni, et al., “Worldwide
+Alzheimer’sdiseaseneuroimaginginitiative,”Alzheimer’s&Demen- [32] L. Clerx, I. A. V. Rossum, and L. Burns, “Measurements of medial
+tia, vol. 8, no. 4, pp. 337-342, 2012. temporal lobe atrophy for prediction of Alzheimer’s disease in
+subjects with mild cognitive impairment,” Neurobio. Aging, vol. 34,
+[11] J. Zhang, C. Yu, and G. Jiang, et al., “3D texture analysis on MRI
+no. 8, pp. 2003-2013, 2013.
+images of Alzheimers disease,” Brain Imaging Behav., vol. 6, no. 1,
+pp. 61-69, 2012. [33] R. Ju, and C. Li, “Early diagnosis of Alzheimer’s disease based on
+[12] R. Casanova, B. Wagner, and C. T. Whitlow, et al., “High di- resting-state brain networks and deep learning,” IEEE/ACM Trans.
+mensional classi?cation of structural MRI Alzheimers disease data Comput. Biol. Bioinf., vol. 16, no. 1, pp. 244-257, Jan.-Feb. 2019.
+based on large scale regularization,” Frontiers in Neuroinformatics,
+[34] Y.Fan,N.Batmanghelich,andC.M.Clark,etal.,“Spatialpatterns
+vol. 5, pp. 22-30, 2011.
+of brain atrophy in MCI patients, identi?ed via high-dimensional
+[13] J.Feng,S.-W.Zhang,andL.Chen,etal.,“Alzheimersdiseaseclas- pattern classi?cation, predict subsequent cognitive decline,” Neu-
+si?cation using features extracted from nonsubsampled contourlet roImage, vol. 39, no. 4, pp. 1731-1743, 2008.
+subband-basedindividualnetworks,”Neurocomputing,vol.421,pp.
+[35] M. Lopez, ´ J. Ram´?rez, and J. M. Gorriz, ´ “Principal component
+260-273, 2021.
+analysis-basedtechniquesandsupervisedclassi?cationschemesfor
+[14] P. Padilla, M. Lopez, ´ and J. M. Gorriz, ´ et al., “NMF-SVM based theearlydetectionofAlzheimer’sdisease,”Neurocomputing,vol.74,
+CAD tool applied to functional brain images for the diagnosis of no. 8, pp. 1260-1271, 2011.
+Alzheimer’s disease,” IEEE Trans. Med. Imaging, vol. 31, no. 2, pp.
+[36] D. Salas-Gonzalez, D. Gorriz, ´ and J. Ram´?rez, “Feature selection
+207-216, 2012.
+usingfactoranalysisforAlzheimer’sdiagnosisusingPETimages,”
+[15] B.Lei,P.Yang,andT.Wang,etal.,“Relational-regularizeddiscrim- Med. Phys., vol. 37, no. 11, pp. 6084-6095, 2010.
+inative sparse learning for Alzheimers disease diagnosis,” IEEE [37] O. B. Ahmed, J. Benois-Pineau, and M. Allard, et al., “Classi?ca-
+Trans. Cyber., vol. 47, no. 4, pp. 1102-1113, 2017. tion of Alzheimers disease subjects from MRI using hippocampal
+visualfeatures,”MultimediaToolsAppl.,vol.74,no.4,pp.1249-1266,
+[16] Y. Cho, J. K. Seong, and Y. Jeong, et al., “Individual subject
+2015.
+classi?cationforAlzheimer’sdiseasebasedonincrementallearning
+usingaspatialfrequencyrepresentationofcorticalthicknessdata,” [38] H. Li, M. Habes, and D. A. Wolk, et al., “A deep learning model
+NeuroIamge, vol. 59, no. 3, pp. 2217-230, 2012. for early prediction of Alzheimer’s disease dementia based on
+hippocampal magnetic resonance imaging data,” Alzheimer’s &
+[17] D.Zhang,Y.Wang,andL.Zhou, etal.,“Multimodalclassi?cation
+Dementia, vol. 15, no. 8, pp. 1059-1070, 2019.
+of Alzheimer’s disease and mild cognitive impairment,” NeuroIm-
+age, vol. 55, no. 3, pp. 856-867, 2011. [39] L. Khedher, J. Ram´?rez, and J. M. Gorriz, ´ “Early diagnosis of
+[18] S.Liu,S.Liu,andW.Cai,etal.,“Multimodalneuroimagingfeature Alzheimer’s disease based on partial least squares, principal com-
+learning for multiclass diagnosis of Alzheimer’s disease,” IEEE ponentanalysisandsupportvectormachineusingsegmentedMRI
+Trans. Biomed. Eng., vol. 62, no. 4, pp. 1132-1140, 2015. images,” Neurocomputing, vol. 151, pp. 139-150, 2015.
+[19] X. Wu, J. Li, and N. Ayutyanont, et al., “The receiver operational [40] J.Feng,X.Liu,andY.Dong,etal.,“Structuraldifferencehistogram
+characteristic for binary classi?cation with multiple indices and its representation for texture image classi?cation,” IET Image Process.,
+application to the neuroimaging study of Alzheimer’s disease,” vol. 11, no. 2, pp. 118-125, 2016.
+IEEE/ACM Trans. Comput. Biol. Bioinf., vol. 10, no. 1, pp. 173-180,
+[41] D. Jha and G. R. Kwon, “Contourlet-based feature extrac-
+2013.
+tion for computer-aided classi?cation of Alzheimer’s disease,”
+[20] K. R.. Gray, P. Aljabar, and R. A. Heckemann, et al., “Random Alzheimer’s&Disease: J. Alzheimer’s Association, vol. 14, no. 7, pp.
+forest-based similarity measures for multi-modal classi?cation of p1473, 2018.
+Alzheimer’s disease,” NeuroImage, vol. 65, pp. 167-175, 2013.
+[42] N. Gao, L. X. Tao, and J. Huang, et al., “Contourlet-based hip-
+[21] Y. Li, Y. Wang, and G. Wu, et al., “Discriminant analysis of lon- pocampal magnetic resonance imaging texture features for multi-
+gitudinal cortical thickness changes in Alzheimer’s disease using variantclassi?cationandpredictionofAlzheimer’sdisease,”Metab.
+dynamicandnetworkfeatures,” Neurobiol. Aging,vol.33,no.2,pp. Brain Dis., vol. 33, no. 6, pp. 1899-1909, 2018.
+427.e15-427.e30, 2012.
+[43] J. Wen, E. Thibeau-Sutre, and M. Diaz-Melo, et al., “Convolu-
+[22] Y. He, Z. Chen, and A. Evans, “Structural insights into aberrant tional neural networks for classi?cation of Alzheimer’s disease:
+topologicalpatterns of large-scalecortical networks inAlzheimer’s Overview and reproducible evaluation,” Med. Image Anal., doi:
+disease,” J. Neuroscience, vol. 28, no. 18, pp. 4756-4766, 2008. https://doi.org/10.1016/j.media.2020.101694.
+1545-5963 (c) 2020 IEEE. Personal use is permitted, but republication/redistribution requires IEEE permission. See http://www.ieee.org/publications_standards/publications/rights/index.html for more information.
+Authorized licensed use limited to: Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology. Downloaded on October 11,2021 at 12:49:20 UTC from IEEE Xplore.  Restrictions apply. 

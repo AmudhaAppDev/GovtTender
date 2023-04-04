@@ -1,0 +1,24 @@
+image = cv2.imread('/kaggle/input/opencv-samples-images/data/messi5.jpg')
+image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+
+plt.figure(figsize=(20, 20))
+
+plt.subplot(2, 2, 1)
+plt.title("Original")
+plt.imshow(image)
+
+height, width = image.shape[:2]
+
+# Let's get the starting pixel coordiantes (top  left of cropping rectangle)
+start_row, start_col = int(height * .25), int(width * .25)
+
+# Let's get the ending pixel coordinates (bottom right)
+end_row, end_col = int(height * .75), int(width * .75)
+
+# Simply use indexing to crop out the rectangle we desire
+cropped = image[start_row:end_row , start_col:end_col]
+
+
+plt.subplot(2, 2, 2)
+plt.title("Cropped")
+plt.imshow(cropped)
